@@ -1,0 +1,6 @@
+config.py
+__pycache__/config.cpython-312.pyc
+src/routes/__pycache__/auth.cpython-312.pyc
+src/routes/__pycache__/cliente.cpython-312.pyc
+src/routes/__pycache__/produto.cpython-312.pyc
+src/models/__pycache__/database.cpython-312.pyc
